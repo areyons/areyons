@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Andrew
-- 👀 I’m interested in backend web developing 
+- 👀 I’m interested in Backend Web Development
 - 🌱 I'm currently learning several areas:
   +Database analyst, 
   +Network engineering,
